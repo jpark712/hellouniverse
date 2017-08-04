@@ -5,6 +5,7 @@ class Universe():
 
     def say_hi(self):
         print("Hello Universe!")
+        print("Hello EWD!")
 
 def main():
     Universe()
